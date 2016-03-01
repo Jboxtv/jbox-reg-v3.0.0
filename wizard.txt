@@ -1,0 +1,8 @@
+
+name="J-Box TV wizard"
+url="https://docs.google.com/uc?id=0B6d0U5iMcxZVY3FYX2ExdTBwVHc&export=download"
+img="https://drive.google.com/file/d/0B6d0U5iMcxZVcjJOWHFVRW9JYVk/view?usp=sharing"
+fanart="https://drive.google.com/open?id=0B6d0U5iMcxZVN2VFdEdfckNUb3c"
+description="Number 1 Kodi Wizard by J-box LLC"
+
+
